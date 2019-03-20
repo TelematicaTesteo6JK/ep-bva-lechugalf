@@ -1,0 +1,56 @@
+Equivalence Partitioning
+
+test data:       -3
+expected result: Error
+actual result:   Error
+test result:     Pass
+--------------------------
+test data:       3
+expected result: 30
+actual result:   30
+test result:     Pass
+--------------------------
+test data:       8
+expected result: 72
+actual result:   72
+test result:     Pass
+--------------------------
+test data:       15
+expected result: 105
+actual result:   105
+test result:     Pass
+--------------------------
+
+
+Boundary Value Analysis
+
+test data:       0
+expected result: Error
+actual result:   Error
+test result:     Pass
+--------------------------
+test data:       1
+expected result: 10
+actual result:   10
+test result:     Pass
+--------------------------
+test data:       5
+expected result: 50
+actual result:   50
+test result:     Pass
+--------------------------
+test data:       6
+expected result: 54
+actual result:   54
+test result:     Pass
+--------------------------
+test data:       10
+expected result: 90
+actual result:   90
+test result:     Pass
+--------------------------
+test data:       11
+expected result: 77
+actual result:   77
+test result:     Pass
+--------------------------
